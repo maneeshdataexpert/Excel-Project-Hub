@@ -71,7 +71,7 @@ The dashboard provides interactive analysis for:
 - Department Referral Trends
 - Interactive Month and Year Filters
 
-  **Key Insights**
+**Key Insights**
 - Monitor total ER patient visits and identify high-volume periods.
 - Compare admitted and non-admitted patient percentages.
 - Evaluate average waiting time to improve operational efficiency.
